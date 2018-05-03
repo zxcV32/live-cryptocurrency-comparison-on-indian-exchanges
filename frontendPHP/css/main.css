@@ -1,0 +1,7 @@
+.card-text > a{
+	color:white; 
+} 
+.card-text > a:hover{
+	color:grey; 
+	text-decoration: none;
+} 
