@@ -1,5 +1,5 @@
 # live-cryptocurrency-comparison-on-indian-exchanges
-the website shows beautiful graphed comparison between various indian cryptocurrency exchanges in front end.in background a multithreaded java program runs continously to get latest rates from these exchanges using api and pushing the values to AWS EDBMS MySQL database.Live demo:https://livecrypto.duckdns.org/
+the website shows beautiful graphed comparison between various indian cryptocurrency exchanges in front end.in background a multithreaded java program runs continously to get latest rates from these exchanges using api and pushing the values to AWS EDBMS MySQL database.
 
 Screenshot
 ------
